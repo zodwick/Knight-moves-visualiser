@@ -24,7 +24,6 @@ export default function Board() {
       {ot_values[start_pos][number]}
     </button>
   ));
-  console.log(squares);
 
   return (
     <>
